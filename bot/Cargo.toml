@@ -1,0 +1,7 @@
+[package]
+name = "alexctf-bot"
+version = "0.1.0"
+authors = ["me"]
+
+[dependencies]
+num = "0.1.36"
